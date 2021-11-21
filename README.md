@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @star-56
-- 👀 I’m interested in ethival hacking
+- 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me ...

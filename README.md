@@ -1,7 +1,6 @@
+[![MasterHead](./Pixelated Animated Nostalgic 90s Illustrations Discord Profile Banner.mp4)](https://lokeshagarwalportfolio.webflow.io/)
 <h1 align="center">Hi 👋, I'm Lokesh Agarwal</h1>
 <h3 align="center">A passionate developer and CyberSec. Enthusiast , currently working on Upwork as a freelance web designer.</h3>
-
-<p align="left"> <a href="https://twitter.com/lokesha07149232" target="blank"><img src="https://img.shields.io/twitter/follow/lokesha07149232?logo=twitter&style=for-the-badge" alt="lokesha07149232" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 

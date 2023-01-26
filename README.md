@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking , Web Developing**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 😎 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with [Starx Coding AI](https://github.com/star-56/Starx_Coding_AI/tree/main)
 

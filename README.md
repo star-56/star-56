@@ -1,6 +1,6 @@
 ![logo](https://github.com/star-56/star-56/blob/main/lok_banner.png)
 <h1 align="center">Hi 👋, I'm Lokesh Agarwal</h1>
-<h3 align="center">A passionate developer and CyberSec. Enthusiast , currently working on Upwork as a freelance web designer.</h3>
+<h3 align="center">A passionate developer and CyberSec. Enthusiast, currently working on Upwork as a freelance web designer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 

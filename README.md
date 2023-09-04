@@ -37,4 +37,4 @@
 
 ## Watch Snake Eating My Contributions
 
-![snake gif](https://github.com/star-56/star-56/blob/output/github-contribution-grid-snake.gif)
+

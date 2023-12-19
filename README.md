@@ -1,4 +1,4 @@
-![logo](https://github.com/star-56/star-56/blob/main/lok_banner.png)
+![logo](https://github.com/star-56/star-56/blob/main/banner_gt.gif)
 <h1 align="center">Hi 👋, I'm Lokesh Agarwal</h1>
 <h3 align="center">A passionate developer and StartUp Enthusiast, currently working on Upwork and LinkedIn as a freelance web designer || Content Writer.</h3>
 

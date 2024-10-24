@@ -4,17 +4,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on [Starx coding AI](https://starx-coding-ai.vercel.app/)
+- 🔭 I’m currently working on [AI Code Translator]([https://starx-coding-ai.vercel.app/](https://github.com/star-56/ai-code-translator))
 
-- 🌱 I’m currently learning **Ethical Hacking , Web Developing**
+- 🌱 I’m currently learning **Web Developing , Generative Ai Automations**
 
 - 😎 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with [Starx Coding AI](https://github.com/star-56/Starx_Coding_AI/tree/main)
-
 - 👨‍💻 All of my projects are available at [https://github.com/star-56](https://github.com/star-56)
 
-- 📝 My Portfolio Site [https://lokeshagarwalportfolio.webflow.io/](https://lokeshagarwalportfolio.webflow.io/)
+- 📝 My Portfolio Site [https://lokicreatesai.me](https://lokicreatesai.me)
 
 - 💬 Ask me about **Cybersec. , Digital Marketing , Freelancing**
 
